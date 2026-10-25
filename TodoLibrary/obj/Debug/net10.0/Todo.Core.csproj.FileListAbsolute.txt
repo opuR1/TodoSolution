@@ -1,0 +1,12 @@
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\bin\Debug\net10.0\Todo.Core.deps.json
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\bin\Debug\net10.0\Todo.Core.dll
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\bin\Debug\net10.0\Todo.Core.pdb
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.AssemblyInfoInputs.cache
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.AssemblyInfo.cs
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.csproj.CoreCompileInputs.cache
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.dll
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\refint\Todo.Core.dll
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.pdb
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\ref\Todo.Core.dll
+C:\Study\02.02(IVANOV)\PR3\Solution1\TodoLibrary\obj\Debug\net10.0\Todo.Core.csproj.Up2Date
