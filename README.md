@@ -14,7 +14,7 @@
 dotnet nuget add source \
   "https://nuget.pkg.github.com/opuR1/index.json" \
   --name github \
-  --username <GITHUB_USERNAME> \
+  --username opuR1 \
   --password <PAT_с_scope_read:packages> \
   --store-password-in-clear-text
 ```
